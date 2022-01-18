@@ -12,3 +12,13 @@ elif marks >70 and marks <=100:
     print("A")
 else:
     print("invalid input")
+
+x = 12
+
+if x >= 22:
+    print("false")
+elif x <= 12:
+    print("true")
+else:
+    print("does not apply!")
+
