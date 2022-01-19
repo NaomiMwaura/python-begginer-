@@ -17,3 +17,4 @@ action2=(str(input("enter next action: ")))
 
 if numb1 == "24":
     numb2 = print(int(input("enter the second value: ")))
+    
