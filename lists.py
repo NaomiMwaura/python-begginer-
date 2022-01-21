@@ -23,5 +23,11 @@ print(names)
 print(len(names))
 
 print(names.count('lovely'))
-print(names.reverse)
 
+print(names.reverse())
+print(names.reverse())
+print(names.pop())
+print(names.pop(-1))
+print(names.pop())
+print(names.pop())
+print(names.pop())
