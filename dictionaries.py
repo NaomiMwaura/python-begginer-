@@ -109,10 +109,10 @@ print(cardict)
 
 cardict.update({"Color" : ["Red", "Black", "White", "Grey"],})
 print(cardict)
-#deleting items in the dictionary using .pop(), while
-# .del() copletely deletes the dictionary
+#deleting a specific item in the dictionary using .pop(), while
+# .del() renoves a specifuc key dictionary
 #.clear() clears all the items in the dictionary
-# .popitem() removes a random item in the dictionary
+# .popitem() removes the last item in the dictionary
 #loops in dictionaries, for function is used in looping through a dictionary
 
 cardict = {
